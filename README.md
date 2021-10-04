@@ -44,4 +44,29 @@ I have used [W3C Markup validator](https://validator.w3.org/) to check all HTML 
 Traditionally, Java was programmed in a very verbose enterprise JavaBean style. The new style is much cleaner, more correct, and easier on the eyes.  
   
 
+ <h2> Java script Documentation - learn about HTML https://www.w3schools.com/html/features. and https://codeinstitute.net/</h2>
+ 
+ 
+ <h2> Color Palette <h2/>
   
+  The following color palette was chosen by my self for this project.
+  
+  
+  
+<h2> Deployment </h2>
+
+This project was deployed with GitHub Pages. The deployed the project successfully by following these steps:
+
+Created a repository on GitHub.
+Exported the project to Gitpod.
+Opened the project in Gitpod.
+Created index.html.
+Built project website.
+Committed and pushed all changes to GitHub.
+Imported project into GitHub.
+Committed and pushed all changes to GitHub.
+Once the project was completed, I visited "repository settings" on GitHub.com.
+Scrolled down to the GitHub Pages section and clicked, "source".
+Fired up a browser and went here to ensure deployment was successful.
+  
+<h2>Code Institute's README Template was used as a guide and foundation for this README document.</h2>
